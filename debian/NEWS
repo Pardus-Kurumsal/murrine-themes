@@ -1,0 +1,14 @@
+murrine-themes (0.98.11) unstable; urgency=medium
+
+  Albatross, Blackbird, Bluebird and Greybird have been split to separate
+  packages. If you use one of them, please install
+  {albatross,blackbird,bluebird,greybird}-gtk-theme package.
+
+ -- Yves-Alexis Perez <corsac@debian.org>  Sat, 23 Jul 2016 21:59:10 +0200
+
+murrine-themes (0.98.6) unstable; urgency=low
+
+  greybird theme has been renamed to Greybird to follow upstream name. You
+  might have to re-select it in the theme settings.
+
+ -- Yves-Alexis Perez <corsac@debian.org>  Sun, 03 Nov 2013 20:49:19 +0100
