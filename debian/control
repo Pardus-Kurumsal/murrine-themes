@@ -12,8 +12,7 @@ Package: murrine-themes
 Architecture: all
 Depends: gtk2-engines-murrine (>= 0.98), ${misc:Depends}
 Recommends: albatross-gtk-theme,
-            blackbird-gtk-theme,
-            bluebird-gtk-theme,
+            blackbird-gtk-theme,            
             greybird-gtk-theme
 Breaks: xubuntu-artwork (<= 0.38)
 Description: themes for gtk2 murrine engine
