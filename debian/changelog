@@ -1,3 +1,10 @@
+murrine-themes (0.98.11pardus1) onyedi; urgency=medium
+
+  * Add .drone.yml
+  * Remove bluebird-gtk-theme from Recommends section
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Fri, 12 May 2017 11:00:35 +0300
+
 murrine-themes (0.98.11) unstable; urgency=medium
 
   [ Jeremy Bicha ]
