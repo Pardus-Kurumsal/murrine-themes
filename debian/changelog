@@ -1,3 +1,9 @@
+murrine-themes (0.98.11pardus2) onyedi; urgency=medium
+
+  * Remove Xubuntu related icon theme
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Mon, 05 Jun 2017 14:15:03 +0300
+
 murrine-themes (0.98.11pardus1) onyedi; urgency=medium
 
   * Add .drone.yml
