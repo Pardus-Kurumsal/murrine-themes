@@ -1,3 +1,9 @@
+murrine-themes (0.98.11pardus3) onyedi; urgency=medium
+
+  * Remove recommends section
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 13 Sep 2017 16:27:00 +0300
+
 murrine-themes (0.98.11pardus2) onyedi; urgency=medium
 
   * Remove Xubuntu related icon theme
