@@ -11,10 +11,6 @@ Vcs-Git: https://anonscm.debian.org/git/collab-maint/murrine-themes.git
 Package: murrine-themes
 Architecture: all
 Depends: gtk2-engines-murrine (>= 0.98), ${misc:Depends}
-Recommends: albatross-gtk-theme,
-            blackbird-gtk-theme,            
-            greybird-gtk-theme
-Breaks: xubuntu-artwork (<= 0.38)
 Description: themes for gtk2 murrine engine
  "Murrine" is an Italian word meaning the glass artworks done by Venicians
  glass blowers. The Engine is cairo-based, and it's very fast compared to
